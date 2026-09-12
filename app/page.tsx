@@ -299,7 +299,7 @@ export default function Home() {
             </ul>
             <div className="plan-value essential-value"><span>Kit principal completo</span><strong>Comece hoje por apenas R$ 17</strong></div>
             <div className="price"><small>R$</small><strong>17</strong><small>,00</small></div>
-            <a href="#ofertas">Quero o Kit Essencial <ArrowRight size={18} /></a>
+            <a href="https://app.zuptos.com.br/checkout/33c25714878ebf2e" target="_blank" rel="noopener noreferrer">Quero o Kit Essencial <ArrowRight size={18} /></a>
             <span className="safe-note"><MessageCircle size={15} /> Entrega digital pelo WhatsApp</span>
           </article>
         </div>
