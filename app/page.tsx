@@ -80,12 +80,16 @@ const purchaseNotifications = [
 ];
 
 const activityImages = [
-  { src: "/entregavel-piramide-original.webp", alt: "Página educativa original sobre a pirâmide, suas faces, arestas, vértice e base" },
-  { src: "/entregavel-cubo-original.webp", alt: "Página educativa original sobre o cubo, suas faces, arestas e vértices" },
-  { src: "/entregavel-cone-original.webp", alt: "Página educativa original sobre o cone, sua base, superfície curva e vértice" },
-  { src: "/entregavel-cilindro-original.webp", alt: "Página educativa original sobre o cilindro, suas bases, altura e superfície curva" },
-  { src: "/entregavel-esfera-original.webp", alt: "Página educativa original sobre a esfera, seu centro, raio e superfície curva" },
-  { src: "/entregavel-prisma-original.webp", alt: "Página educativa original sobre o prisma triangular, suas bases, faces, arestas e vértices" },
+  { src: "/atividade-memoria.webp", alt: "Cartas recortáveis do jogo da memória com sólidos geométricos" },
+  { src: "/atividade-bingo.webp", alt: "Cartelas imprimíveis do bingo das pistas sobre sólidos geométricos" },
+  { src: "/atividade-domino-formas.webp", alt: "Peças recortáveis do dominó das formas geométricas" },
+  { src: "/atividade-casas-superficies.webp", alt: "Tabuleiro para classificar sólidos com partes curvas e faces planas" },
+  { src: "/atividade-trilha-descoberta.webp", alt: "Tabuleiro da trilha da descoberta com desafios geométricos" },
+  { src: "/atividade-monte-cubo.webp", alt: "Molde planificado para imprimir, recortar, dobrar e montar um cubo" },
+  { src: "/atividade-robo-geometrico.webp", alt: "Peças recortáveis para montar um robô com figuras geométricas" },
+  { src: "/atividade-cubo-desafios.webp", alt: "Molde recortável do cubo dos desafios geométricos" },
+  { src: "/atividade-domino-caracteristicas.webp", alt: "Peças do dominó que relaciona sólidos geométricos e suas características" },
+  { src: "/atividade-mercado-solidos.webp", alt: "Cartas recortáveis do jogo Mercado dos Sólidos" },
 ];
 
 const deliverableDetails = [
