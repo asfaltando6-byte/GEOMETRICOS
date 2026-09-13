@@ -279,12 +279,17 @@ export default function Home() {
             <p className="plan-description">Por apenas R$ 10 a mais, receba o kit principal e todos os recursos extras.</p>
             <ul>
               <li><Check /> Tudo da Oferta Essencial</li>
-              <li><Check /> Jogo da Memória</li>
-              <li><Check /> Bingo dos Sólidos</li>
+              <li><Check /> Jogos de memória e bingo</li>
+              <li><Check /> Dominós, trilhas e desafios recortáveis</li>
+              <li><Check /> Atividades para usar individualmente, em duplas ou grupos</li>
+              <li><Check /> Mais opções para apresentar, praticar e revisar</li>
               <li><Check /> Guia de Aplicação Rápida</li>
+              <li><Check /> Imprima somente as páginas que precisar</li>
+              <li><Check /> Reutilize o material com novas turmas</li>
+              <li><Check /> Arquivos digitais em alta qualidade</li>
               <li><MessageCircle /> Receba pelo WhatsApp</li>
             </ul>
-            <div className="plan-value"><span>Inclui R$ 35,70 em bônus</span><strong>Mais opções para apresentar, praticar e revisar</strong></div>
+            <div className="plan-value"><span>Inclui R$ 35,70 em bônus</span><strong>Mais variedade de atividades e menos tempo preparando a aula</strong></div>
             <div className="price"><small>R$</small><strong>27</strong><small>,00</small></div>
             <a href="https://pay.cakto.com.br/gqpw3f9_1106378" target="_blank" rel="noopener noreferrer">Quero o Kit Completo <ArrowRight size={18} /></a>
             <span className="safe-note"><MessageCircle size={15} /> Entrega digital pelo WhatsApp</span>
