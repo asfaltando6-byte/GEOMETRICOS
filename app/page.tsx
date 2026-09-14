@@ -140,7 +140,7 @@ export default function Home() {
           <h1>Tire os sólidos geométricos do quadro e coloque o conteúdo <em>nas mãos dos alunos</em></h1>
           <p>Um kit digital com cartazes, moldes 3D e atividades prontas para a turma visualizar, montar e compreender cada forma.</p>
           <div className="hero-mockup">
-            <StaticImage src="/hero-mockup-premium.webp" alt="Kit Sólidos Geométricos com capas pedagógicas e formas tridimensionais coloridas" fill priority sizes="(max-width: 900px) 94vw, 980px" />
+            <StaticImage src="/hero-mockup-premium-v2.webp" alt="Kit Sólidos Geométricos com cadernos, jogos imprimíveis, moldes e formas tridimensionais de papel" fill priority sizes="(max-width: 900px) 94vw, 980px" />
           </div>
           <a className="cta" href="#ofertas">Quero acessar o material <ArrowRight size={19} /></a>
           <div className="hero-benefits">
