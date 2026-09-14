@@ -291,7 +291,7 @@ export default function Home() {
             </ul>
             <div className="plan-value"><span>Inclui R$ 35,70 em bônus</span><strong>Mais variedade de atividades e menos tempo preparando a aula</strong></div>
             <div className="price"><small>R$</small><strong>27</strong><small>,00</small></div>
-            <a href="https://pay.cakto.com.br/gqpw3f9_1106378" target="_blank" rel="noopener noreferrer">Quero o Kit Completo <ArrowRight size={18} /></a>
+            <a href="https://app.zuptos.com.br/checkout/74c8495eb7f68993" target="_blank" rel="noopener noreferrer">Quero o Kit Completo <ArrowRight size={18} /></a>
             <span className="safe-note"><MessageCircle size={15} /> Entrega digital pelo WhatsApp</span>
           </article>
 
